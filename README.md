@@ -1,4 +1,4 @@
-### 👋  Olá! Sou estudante de Bacharelado em Sistemas de Informação, no IFBA. 😊
+#### 👋  Olá! Sou estudante de Bacharelado em Sistemas de Informação, no IFBA. 😊
 
 
 ## • Conecte-se comigo
@@ -10,7 +10,7 @@
 
 ## • 💻 Habilidades 
 
-### - Linguagens de programação
+### - Linguagens de Programação
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
