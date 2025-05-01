@@ -61,6 +61,20 @@
 
 ## ⚡ Github Stats  
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarahzxwy/sarahzxwy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarahzxwy/sarahzxwy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sarahzxwy/sarahzxwy/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br>
+
+<br>
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sarahzxwy&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
@@ -71,4 +85,4 @@
 
 </td></tr></table>  
 
-<br/>
+
