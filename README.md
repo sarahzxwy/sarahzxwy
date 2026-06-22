@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=29&pause=1000&color=9D0C76&width=435&separator=%3C&lines=Hello+there+%3A)+I'm+Sarah!%3CWelcome+to+my+profile!+;)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=29&pause=1000&color=B4519E&width=435&separator=%3C&lines=Hello+there+%3A)+I'm+Sarah!%3CWelcome+to+my+profile!+;)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,9 +19,9 @@
 💬 You can contact me on:
 
 <a href="https://www.linkedin.com/in/sarah-alves-borges-686678290/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<img src="https://img.shields.io/badge/-LinkedIn-%23467AA7?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
 <a href="mailto:sarahalvesborges5@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+<img src="https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=email&logoColor=white" alt="Email"></a>
 
 
 <br>
